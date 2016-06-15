@@ -8,5 +8,6 @@ namespace SportsStore.Domain
 {
     public class Class1
     {
+        //testujmy commity na githubie:)
     }
 }
